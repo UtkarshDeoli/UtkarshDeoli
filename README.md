@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @UtkarshDeoli
+- 👀 I’m interested in Coding!
+- 🌱 I’m currently learning Java/Python
+- 💞️ I’m looking to collaborate on No One for now
+- 📫 How to reach me Email me at utkarshdeoli@gmail.com
