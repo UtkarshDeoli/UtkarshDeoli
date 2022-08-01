@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @UtkarshDeoli
 - 👀 I’m interested in Coding!
-- 🌱 I’m currently learning Java/Python
+- 📲 I'm a Flutter Developer
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects for experience 
 - 📫 To reach me Email me at utkarsh.deoli@gmail.com
