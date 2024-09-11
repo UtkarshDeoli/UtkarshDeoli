@@ -8,3 +8,4 @@
 
 
 [![@utkarshdeoli's Holopin board](https://holopin.me/utkarshdeoli)](https://holopin.io/@utkarshdeoli)
+![UtkarshDeoli's Stats](https://github-readme-stats.vercel.app/api?username=UtkarshDeoli&theme=merko&show_icons=true&hide_border=false&count_private=true)
