@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @UtkarshDeoli
+# Hey there, I'm Utkarsh Deoli a Developer from 🇮🇳.
+
+## About me
 - 👀 I’m interested in Coding!
 - 📲 I'm a Flutter Developer
 - 🌱 I’m currently learning Machine Learning
